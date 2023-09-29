@@ -1,4 +1,4 @@
 # web-development-
 projects from web development
 <br>
-Author Tanveer
+Author Tanveer Akhlaque
